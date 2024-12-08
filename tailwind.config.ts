@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        sans: ["Inter", "sans-serif"], // Use for body text
+        serif: ["Merriweather", "serif"], // Use for headings
+      },
     },
   },
   plugins: [],
